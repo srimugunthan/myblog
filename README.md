@@ -1,2 +1,2 @@
 # myblog
-sri blog
+Articles written by Srimugunthan

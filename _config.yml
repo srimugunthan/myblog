@@ -1,0 +1,4 @@
+title: Blog articles 
+description: A minimal blog
+markdown: kramdown
+baseurl: /myblog
